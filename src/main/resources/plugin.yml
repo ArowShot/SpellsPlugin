@@ -1,0 +1,14 @@
+name: SpellsPlugin
+version: 1.0.0a
+description: A plugin that adds spells
+author: ArowShot
+
+main: com.reynixpvp.spellsplugin.SpellPlugin
+
+commands:
+   mana:
+     description: View your current mana.
+   spells:
+     description: View the spells you can cast.
+   spell:
+     description: Select a spell.
